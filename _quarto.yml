@@ -5,6 +5,7 @@ project:
 
 website:
   title: "Modern Statistical Modeling"
+  site-url: https://pos5747.github.io/
   navbar:
     left:
       - href: index.qmd
