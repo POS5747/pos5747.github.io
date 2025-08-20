@@ -1,0 +1,30 @@
+project:
+  type: website
+  output-dir: docs
+
+
+website:
+  title: "Modern Statistical Modeling"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Schedule
+      - href: research-project.qmd
+        text: Research Project
+      - href: workshop.qmd
+        text: Workshop
+      - href: syllabus.pdf
+        text: Syllabus
+
+format:
+  html:
+    theme:
+      - sandstone
+    css: styles.css
+    toc: true
+    
+resources:
+  - syllabus.pdf
+
+
+
