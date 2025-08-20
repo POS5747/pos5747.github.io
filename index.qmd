@@ -3,41 +3,38 @@ title: "Schedule"
 ---
 
 aug 27 · review · 
-[slides]
-[notes]
-[exercises]
-[solutions]
+[slides] [notes] [[exercises](exr/wk01-exr.pdf)]
 [fractions, logarithms, and exponents; calculus; matrices; probability theory]{.topics}
 
 -------
 
-sep 03 · **ml** · [slides] [notes] [exercises] [solutions]
+sep 03 · **ml** · [slides] [notes] [exercises]
 [*maximum likelihood; invariance principle; predictive distribution*]{.topics}
 
 ---
 
-sep 10 · **se** · [slides] [notes] [exercises] [solutions]
+sep 10 · **se** · [slides] [notes] [exercises]
 [sampling distribution; parametric bootstrap; variance and standard error; delta method]{.topics}
 
 ---
 
-sep 17 · **X** · [slides] [notes] [exercises] [solutions]
+sep 17 · **X** · [slides] [notes] [exercises]
 [adding covariates; logistic regression, Poisson regression, exponential regression]{.topics}
 
 ---
 
-sep 24 · **bayes** · [slides] [notes] [exercises] [solutions]
+sep 24 · **bayes** · [slides] [notes] [exercises]
 [Bayesian inference; acceptance sampling]{.topics}
 
 ---
 
-oct 01 · **mcmc** · [slides] [notes] [exercises] [solutions]
+oct 01 · **mcmc** · [slides] [notes] [exercises]
 [Metropolis algorithm; Hamiltonian Monte Carlo and Stan; {rstan}, {cmdstanr}, and {brms}]{.topics}
 [Due: prospectus for research paper.]{.remarks}
 
 ---
 
-oct 08 · **{marginaleffects}** · [slides] [notes] [exercises] [solutions]
+oct 08 · **{marginaleffects}** · [slides] [notes] [exercises]
 [computing quantities of interest with the {marginal effects pacakge}]{.topics}
 
 ---
@@ -46,26 +43,26 @@ oct 15 · [**midterm exam**]{.text-warning}
 
 ---
 
-oct 22 · **hierarchical models** · [slides] [notes] [exercises] [solutions]
+oct 22 · **hierarchical models** · [slides] [notes] [exercises]
 [Due: (1) first draft of research paper due and (2) initial outline of take-home workshop handout.]{.remarks}
 
 ---
 
-oct 29 · **irt** · [slides] [notes] [exercises] [solutions]
+oct 29 · **irt** · [slides] [notes] [exercises]
 [Due: first drafts of all workshop materials.]{.remarks}
 
 ---
 
-nov 05 · **mrp** · [slides] [notes] [exercises] [solutions]
+nov 05 · **mrp** · [slides] [notes] [exercises]
 [Due: workshop rehearsal]{.remarks}
 
 ---
 
-nov 12 · **case study: fowler et al. (2023)** · [slides] [notes] [exercises] [solutions]
+nov 12 · **case study: fowler et al. (2023)** · [slides] [notes] [exercises]
 
 ---
 
-nov 19 · **case study: fariss (2014)** · [slides] [notes] [exercises] [solutions]
+nov 19 · **case study: fariss (2014)** · [slides] [notes] [exercises]
 
 ---
 
@@ -75,7 +72,7 @@ nov 26 · [**thanksgiving break**]{.text-info}
 
 ---
 
-dec 03 · **wrap** · [slides] [notes] [exercises] [solutions]
+dec 03 · **wrap** · [slides] [notes] [exercises]
 [Poster presentation this week.]{.remarks}
 
 ---

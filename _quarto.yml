@@ -26,6 +26,7 @@ format:
     
 resources:
   - syllabus.pdf
+  - exr/
 
 
 
