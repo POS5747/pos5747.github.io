@@ -3,9 +3,11 @@ project:
   output-dir: docs
 
 
+
 website:
   title: "Modern Statistical Modeling"
   site-url: https://pos5747.github.io/
+  google-analytics: "G-F57WQLHH67"
   navbar:
     left:
       - href: index.qmd
