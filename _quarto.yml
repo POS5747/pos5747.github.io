@@ -10,6 +10,8 @@ website:
     left:
       - href: index.qmd
         text: Schedule
+      - href: https://pos5747.github.io/notes/
+        text: Notes
       - href: research-project.qmd
         text: Research Project
       - href: workshop.qmd
