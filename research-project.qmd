@@ -1,7 +1,7 @@
 ---
 title: "Research Project"
 bibliography: references.bib
-citation-location: margin
+#citation-location: margin
 reference-location: margin
 ---
 
