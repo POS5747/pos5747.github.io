@@ -11,28 +11,28 @@
     "href": "workshop.html",
     "title": "Workshop",
     "section": "",
-    "text": "Your task this semester: design and run a 60-minute workshop on a particular statistical model.\nYou will complete this tasks in (ideally) teams of two.1"
+    "text": "Your task this semester: design and run a 60-minute workshop on a particular statistical model.\nYou will complete this task in (ideally) teams of two.1"
   },
   {
     "objectID": "workshop.html#why",
     "href": "workshop.html#why",
     "title": "Workshop",
     "section": "Why?",
-    "text": "Why?\nI designed this project to help you develop as a researcher and teacher. As PhD students, you aren’t just learning statistical models to so you can pass my exams. You’re preparing to explain them to others, whether in seminars, conference talks, TA positions, or eventually in your own classrooms.\nTeaching a concept deepens your own mastery. It forces you to develop a thorough understanding of an idea and constantly re-engage with your understanding.\nThe workshop also mirrors important professional activities: conference presentations and job talks, teaching, collaboration, and reproducible research."
+    "text": "Why?\nI designed this project to help you develop as a researcher and teacher. As PhD students, you aren’t just learning statistical models to so you can pass my exams. You’re preparing to explain them to others, whether in conference presentations, your job talk, or classroom lectures.\nTeaching a concept deepens your own mastery. It forces you to develop a thorough understanding of an idea and constantly re-engage with your understanding.\nThe workshop also mirrors important professional activities: conference presentations and job talks, teaching, collaboration, and reproducible research. It’s easy to think of a polished presentation as “mere aesthetics,” but communication is important for scientists!"
   },
   {
     "objectID": "workshop.html#topics",
     "href": "workshop.html#topics",
     "title": "Workshop",
     "section": "Topics",
-    "text": "Topics\nI suggest the following topics:\n\nModeling unordered categorical outcomes.\nModeling ordered categorical outcomes.\nModeling count outcomes.\nModeling time-to-event outcomes semi-parametrically."
+    "text": "Topics\nI suggest the following topics:\n\nModeling unordered categorical outcomes.\nModeling ordered categorical outcomes.\nModeling count outcomes.\nModeling time-to-event (i.e., continuous and non-negative) outcomes semi-parametrically."
   },
   {
     "objectID": "workshop.html#materials",
     "href": "workshop.html#materials",
     "title": "Workshop",
     "section": "Materials",
-    "text": "Materials\nYour workshop should consist of the following materials:\n\nA Read-Ahead Document\nA document (HTML or PDF) that participants can read in 5-10 minutes before attending the workshop.\nThis document serves two purposes.\n\nFirst, it helps orient participants to the material and spark interest and curiosity.\nSecond, it describes how to install any software needed for the workshop so that folks can set up their computers before attending.\n\nThis document is not a substitute for the workshop. It is lightweight document that reduces friction and builds interest.\n\n\nSlides\nA set of slides to show during the presentation.\nThe slides should support a roughly 15-minute conceptual lecture portion of the workshop.\nThe slides do not need to be comprehensive.2 Perhaps 6-8 slides are enough. Use slides to emphasize the big ideas concepts or show visuals.3 (It’s fine to use an analog or digital chalkboard for portions of the lecture!)\n2 The take-home notes can include the supporting details.3 Again, reserve complicated equations for handouts.\n\nTwo Examples\nTwo diverse examples from political science.\n\nUse the first example as a live-coding example for your workshop.\nUse the second example as a hands-on exercise for your participants.\n\n\n\nA Take-Home Handout\nTake-home handout that summarizes all the content from the workshop. This document is a substitute for the workshop. You can easily write a reproducible document in Quarto.\n\nIt should cover the conceptual and mathematical ideas from the lecture, but in somewhat greater detail. Something like two pages of text seems about right, excluding large equations, figures, and tables.\nIt should include the two examples worked out in detail. In Quarto, it’s easy to mix the prose, code, equations, and figures, so use those features to clearly explain the concepts and software. Make sure to focus on the important points—it’s easy to make pages and pages of relatively unimportant code and output. The length of this section will depend heavily on the nature of the examples, but each example should load and inspect data, fit models, compute quantities of interest, and plot the quantities of interest.\nIt should include a few references in case participants want to learn more. For each references, write a few words about why participants might use that resource."
+    "text": "Materials\nYour workshop should consist of the following materials:\n\nA Read-Ahead Document\nA document (HTML or PDF) that participants can read in 5-10 minutes before attending the workshop.\nThis document serves two purposes.\n\nFirst, it orients participants to the material and sparks interest and curiosity.\nSecond, it describes how to install any software needed for the workshop so that folks can set up their computers before attending. You should give instructions for installing the software and code they can use to test the installation (i.e., “make sure the following code runs and produces _____”.)\n\nThis document is not a substitute for the workshop. It is lightweight document that reduces friction and builds interest.\n\n\nSlides\nA set of slides to show during the presentation.\nThe slides should support a roughly 15-minute conceptual lecture portion of the workshop.\nThe slides do not need to be comprehensive.2 Perhaps 6-8 slides are enough. Use slides to emphasize the big ideas concepts or show visuals.3 (It’s fine to use an analog or digital chalkboard for portions of the lecture!)\n2 The take-home notes can include the supporting details.3 Again, reserve complicated equations for handouts.\n\nTwo Examples\nTwo diverse examples from political science.\n\nUse the first example as a live-coding example for your workshop.\nUse the second example as a hands-on exercise for your participants.\n\n\n\nA Take-Home Handout\nTake-home handout that summarizes all the content from the workshop. This document is a substitute for the workshop. You can easily write a reproducible document in Quarto.\n\nIt should cover the conceptual and mathematical ideas from the lecture, but in somewhat greater detail. Something like two pages of text seems about right, excluding large equations, figures, and tables.\nIt should include the two examples worked out in detail. In Quarto, it’s easy to mix the prose, code, equations, and figures, so use those features to clearly explain the concepts and software. Make sure to focus on the important points—it’s easy to make pages and pages of relatively unimportant code and output. The length of this section will depend heavily on the nature of the examples, but each example should load and inspect data, fit models, compute quantities of interest, and plot the quantities of interest.\nIt should include a few references in case participants want to learn more. For each references, write a few words about why participants might use that resource."
   },
   {
     "objectID": "workshop.html#time-and-place",
@@ -68,6 +68,13 @@
     "title": "Workshop",
     "section": "Comments on Tools",
     "text": "Comments on Tools\n\nYou may use whatever software helps you design and run an excellent workshop.\nI highly recommend Quarto rendered to HTML or PDF for your take-home handout.\nIt’s easier to make excellent slides with a WYSIWYG program like PowerPoint, but harder to update and maintain those slides. Software like Revealjs make it really easy to convert a take-home handout written in Quarto to easy to create and maintain.\nIf you like, you can post materials to the web (HTML or PDF) or share materials (data, scripts, and documents) in a zipped directory via email."
+  },
+  {
+    "objectID": "workshop.html#resources",
+    "href": "workshop.html#resources",
+    "title": "Workshop",
+    "section": "Resources",
+    "text": "Resources\n\nTufte’s “The Cognitive Style of PowerPoint.” [pdf]\nAsher’s Even a Geek Can Speak [Amazon] and 15 Minutes Including Q&A [Amazon]"
   },
   {
     "objectID": "research-project.html",
